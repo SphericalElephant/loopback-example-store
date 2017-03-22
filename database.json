@@ -1,0 +1,36 @@
+{
+  "ids": {
+    "Product": 18,
+    "Order": 2,
+    "OrderProduct": 4
+  },
+  "models": {
+    "Product": {
+      "1": "{\"name\":\"Scooty-Puff, Jr.\",\"price\":10,\"id\":1}",
+      "2": "{\"name\":\"Scooty-Puff, Sr.\",\"price\":50,\"id\":2}",
+      "3": "{\"name\":\"EyePhone\",\"price\":50,\"id\":3}",
+      "4": "{\"name\":\"Butter Passing Robot\",\"price\":30.99,\"id\":4}",
+      "5": "{\"name\":\"Plumbus\",\"price\":33.5,\"id\":5}",
+      "6": "{\"name\":\"Replacement Fleeb for Plumbusses\",\"price\":33.5,\"id\":6}",
+      "7": "{\"name\":\"Replacement Dinglebob for Plumbusses\",\"price\":9.99,\"id\":7}",
+      "8": "{\"name\":\"Repurposed Shleem 10 pieces\",\"price\":5,\"id\":8}",
+      "9": "{\"name\":\"Mr. Sparkle 10 oz\",\"price\":3.99,\"id\":9}",
+      "10": "{\"name\":\"Wheat Thins 10 Pack\",\"price\":1.99,\"id\":10}",
+      "11": "{\"name\":\"Cool Whip\",\"price\":2,\"id\":11}",
+      "12": "{\"name\":\"Slurm 30oz\",\"price\":0.99,\"id\":12}",
+      "13": "{\"name\":\"Def-Con Owl Traps 5x\",\"price\":5,\"id\":13}",
+      "14": "{\"name\":\"Molten Boron 2l\",\"price\":1.5,\"id\":14}",
+      "15": "{\"name\":\"Lightspeed Briefs 10 Pack\",\"price\":22.5,\"id\":15}",
+      "16": "{\"name\":\"Klein's Beer - The true 2 dimensional manifold!\",\"price\":2.5,\"id\":16}",
+      "17": "{\"name\":\"Mom's Old-Fashioned Robot Oil 1l\",\"price\":1,\"id\":17}"
+    },
+    "Order": {
+      "1": "{\"name\":\"Demo Order\",\"id\":1}"
+    },
+    "OrderProduct": {
+      "1": "{\"orderId\":1,\"productId\":1,\"id\":1}",
+      "2": "{\"orderId\":1,\"productId\":2,\"id\":2}",
+      "3": "{\"orderId\":1,\"productId\":17,\"id\":3}"
+    }
+  }
+}
